@@ -8,10 +8,10 @@
 </p>
 
 ##Biodata
-Nama   : Vicky Wijaya nur Awaluddin
-NIM    : 23091397136
-Kelas  : 2023D
-Matkul : Pemrogaman Web Lanjut
+    Nama   : Vicky Wijaya nur Awaluddin
+    NIM    : 23091397136
+    Kelas  : 2023D
+    Matkul : Pemrogaman Web Lanjut
 
 ## About Laravel
 
