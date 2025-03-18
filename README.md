@@ -7,11 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##Biodata
-    Nama   : Vicky Wijaya nur Awaluddin
-    NIM    : 23091397136
-    Kelas  : 2023D
-    Matkul : Pemrogaman Web Lanjut
+## Biodata
+Nama: Vicky Wijaya Nur Awauddin  
+NIM: 23091397136  
+Kelas: 2023D  
+Prodi: D4 Manajemen Informatika  
+Matkul: Pemrograman API  
 
 ## About Laravel
 
