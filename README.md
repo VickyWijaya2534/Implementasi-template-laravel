@@ -8,11 +8,11 @@
 </p>
 
 ## Biodata
-Nama: Vicky Wijaya Nur Awauddin  
-NIM: 23091397136  
-Kelas: 2023D  
-Prodi: D4 Manajemen Informatika  
-Matkul: Pemrograman API  
+Nama  : Vicky Wijaya Nur Awauddin  
+NIM   : 23091397136  
+Kelas : 2023D  
+Prodi : D4 Manajemen Informatika  
+Matkul: Pemrograman Web Lanjut  
 
 ## About Laravel
 
